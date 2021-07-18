@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+body {
+  background-color: #272727;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.infoHeading {
+  color: white;
+  background-color: #005B7E;
+}
+
+.infoText {
+  color: black;
+  padding: 10px;
+  background-color: #A6D4FB;
+  border-radius: 2px;
+}
+
+.mainInp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formGrid {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.inputForm {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.inputField {
+  background-color: #A6D4FB;
+  padding: 0.2rem;
+}
+
+.dropdown {
+  background-color: white;
+  color: black;
+  border: 0.07rem solid black;
+  font-family: 'Lato', sans-serif;
+}
+
+.dropdown:hover {
+  cursor: pointer;
+}
+
+.dropdown::after {
+  border: none;
+  outline: none;
+}
+.dropdown:focus {
+  outline: none;
+}
+
+.textbox {
+  border: 0.07rem solid black;
+  font-family: 'Lato', sans-serif;
+}
+
+.textbox:focus {
+  outline: none;
+}
+
+.submitButton {
+  background-color: #0089FF;
+  font-family: 'Lato', sans-serif;
+  border: none;
+  margin-top: 5px;
+  padding: 10px;
+  border-radius: 2px;
+  color: white;
+}
+
+.submitButton:hover {
+  cursor: pointer;
+}
+
+.loadinganimation {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.resultdiv {
+  margin-top: 20px;
+}
