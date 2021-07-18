@@ -1,3 +1,3 @@
 # Titanic Survival Prediction
 
-![Example Image](https://imgur.com/a/OxU40oZ)
+![Example Image](https://imgur.com/a/OxU40oZ.png)
