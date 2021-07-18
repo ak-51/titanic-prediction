@@ -9,4 +9,4 @@ This web application uses Machine Learning to predict the chances of survival of
 
 ## How the Frontend and Backend Interact
 
-React sends the user input to the Node.js backend, which sends this data to the Python script. This Python script uses Tensorflow to train and evaluate data. Once the prediction has been made, it is sent back to the Node.js backend, which is then sent to the React frontend where it is diplayed to the user.
+React sends the user input to the Node.js backend, which sends this data to the Python script. This Python script uses Tensorflow to train and evaluate data. Once the prediction has been made, it is sent back to the Node.js backend, which is then sent to the React frontend where it is displayed to the user.
