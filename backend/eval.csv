@@ -301,3 +301,8 @@ survived,sex,age,n_siblings_spouses,parch,fare,class,deck,embark_town,alone
 0,female,28,1,2,30.75,Second,A,Southampton,n
 0,female,28,1,2,30.75,Second,A,Southampton,n
 0,female,28,1,2,30.75,Second,A,Southampton,n
+0,female,12,3,2,85.3,First,C,Southampton,n
+0,male,38,0,0,7.3,Third,unknown,Southampton,y
+0,male,38,0,0,7.3,Third,unknown,Southampton,y
+0,male,38,0,0,7.3,Third,unknown,Southampton,y
+0,female,26,1,0,35.2,Second,A,Southampton,y
